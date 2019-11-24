@@ -9,6 +9,8 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>java_api_son</module>
+      <module>java-api-object</module>
+    <module>java-api-string</module>
   </modules>
   <packaging>pom</packaging>
 
