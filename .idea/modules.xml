@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_api_parent/java_api_String/java_api_String.iml" filepath="$PROJECT_DIR$/java_api_parent/java_api_String/java_api_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_api_parent/java_api_parent.iml" filepath="$PROJECT_DIR$/java_api_parent/java_api_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_api_parent/java_api_son/java_api_son.iml" filepath="$PROJECT_DIR$/java_api_parent/java_api_son/java_api_son.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java_api_parent/java-api-object/javaapiobject.iml" filepath="$PROJECT_DIR$/java_api_parent/java-api-object/javaapiobject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java_api_parent/java-api-string/javaapistring.iml" filepath="$PROJECT_DIR$/java_api_parent/java-api-string/javaapistring.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/maven_dep_parent.iml" filepath="$PROJECT_DIR$/.idea/maven_dep_parent.iml" />
     </modules>
   </component>

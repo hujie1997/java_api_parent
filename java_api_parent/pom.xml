@@ -11,6 +11,7 @@
     <module>java_api_son</module>
       <module>java-api-object</module>
     <module>java-api-string</module>
+      <module>java_api_String</module>
   </modules>
   <packaging>pom</packaging>
 
